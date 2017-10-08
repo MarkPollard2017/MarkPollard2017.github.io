@@ -1,4 +1,4 @@
-h1 { color: white; }
+h1 { color: gold; }
 
 body {
 	background: black;
@@ -12,5 +12,18 @@ nav li {
 	background: black;
 	padding: 10px;
 	margin: 20px; }
+	
+t01 {
+    border: 10px white;
+    border-collapse: collapse; }
+th  {
+	padding: 5px;
+	text-align: left;
+	color: gold }
+
+ td {
+    padding: 5px;
+    text-align: left; }
+
 	
 
